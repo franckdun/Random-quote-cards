@@ -1,55 +1,56 @@
 const quotes = [{
     quote: `"You only live once, but if you do it right, once is enough."`,
-    writer: `– Mae West`
+    writer: `Mae West`
 }, {
     quote: `"If you want to live a happy life, tie it to a goal, not to people or things."`,
-    writer: `– Albert Einstein`
+    writer: `Albert Einstein`
 }, {
     quote: `"Never let the fear of striking out keep you from playing the game."`,
-    writer: `– Babe Ruth`
+    writer: `Babe Ruth`
 }, {
     quote: `"Your time is limited, so don’t waste it living someone else’s life."`,
-    writer: `– Steve Jobs`
+    writer: `Steve Jobs`
 }, {
     quote: `"In order to write about life first you must live it."`,
-    writer: `– Ernest Hemingway`
+    writer: `Ernest Hemingway`
 }, {
     quote: `"Life is not a problem to be solved, but a reality to be experienced."`,
-    writer: `– Soren Kierkegaard`
+    writer: `Soren Kierkegaard`
 }, {
     quote: `"The unexamined life is not worth living."`,
-    writer: `– Socrates`
+    writer: `Socrates`
 }, {
     quote: `"Turn your wounds into wisdom."`,
-    writer: `– Oprah Winfrey`
+    writer: `Oprah Winfrey`
 }, {
     quote: `"The purpose of our lives is to be happy."`,
-    writer: `- Dalai Lama`
+    writer: `Dalai Lama`
 }, {
     quote: `"Do not expect any new knowledge from men who observe the sky.
     And that never tires of the crazy race of passing stars."`,
-    writer: `- Le jardin des réalisations.`
+    writer: `Garden of Achievements`
 }, {
     quote: `"Individually, men seek meaning in their existence.
-    But in general, common ambitions serve as a reference to be accepted and esteemed by many."`
+    But in general, common ambitions serve as a reference to be accepted and esteemed by many."`,
+    writer: `Garden of Achievements`
 }, {
     quote: `"The purpose of our lives is to be happy."`,
-    writer: `- Dalai Lama`
+    writer: `Dalai Lama`
 }, {
     quote: `"The purpose of our lives is to be happy."`,
-    writer: `- Dalai Lama`
+    writer: `Dalai Lama`
 }, {
     quote: `"The purpose of our lives is to be happy."`,
-    writer: `- Dalai Lama`
+    writer: `Dalai Lama`
 }, {
     quote: `"The purpose of our lives is to be happy."`,
-    writer: `- Dalai Lama`
+    writer: `Dalai Lama`
 }, {
     quote: `"The purpose of our lives is to be happy."`,
-    writer: `- Dalai Lama`
+    writer: `Dalai Lama`
 }, {
     quote: `"Live for each second without hesitation."`,
-    writer: `- Elton John`
+    writer: `Elton John`
 },]
 
 
@@ -76,3 +77,4 @@ btn.addEventListener("click", function () {
 
     writer.innerHTML = quotes[random].writer;
 })
+
