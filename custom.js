@@ -26,6 +26,28 @@ const quotes = [{
     quote: `"The purpose of our lives is to be happy."`,
     writer: `- Dalai Lama`
 }, {
+    quote: `"Do not expect any new knowledge from men who observe the sky.
+    And that never tires of the crazy race of passing stars."`,
+    writer: `- Le jardin des réalisations.`
+}, {
+    quote: `"Individually, men seek meaning in their existence.
+    But in general, common ambitions serve as a reference to be accepted and esteemed by many."`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `- Dalai Lama`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `- Dalai Lama`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `- Dalai Lama`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `- Dalai Lama`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `- Dalai Lama`
+}, {
     quote: `"Live for each second without hesitation."`,
     writer: `- Elton John`
 },]
