@@ -43,8 +43,8 @@ const quotes = [{
     quote: `"The purpose of our lives is to be happy."`,
     writer: `Dalai Lama`
 }, {
-    quote: `"The purpose of our lives is to be happy."`,
-    writer: `Dalai Lama`
+    quote: `"No one can reach dawn without passing through the path of night."`,
+    writer: `Khalil Gibran`
 }, {
     quote: `" ͡° ͜ʖ ͡°  &nbsp;Sages have come and given you their wisdom, I\'m just coming to take a little from you ! "`,
     writer: `Garden of Achievements`
