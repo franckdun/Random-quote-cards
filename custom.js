@@ -46,7 +46,7 @@ const quotes = [{
     quote: `"The purpose of our lives is to be happy."`,
     writer: `Dalai Lama`
 }, {
-    quote: `" ͡° ͜ʖ ͡°  Sages have come and given you their wisdom, I\'m just coming to take a little from you ! "`,
+    quote: `" ͡° ͜ʖ ͡°  &nbsp;Sages have come and given you their wisdom, I\'m just coming to take a little from you ! "`,
     writer: `Garden of Achievements`
 }, {
     quote: `"Live for each second without hesitation."`,
