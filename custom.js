@@ -40,8 +40,8 @@ const quotes = [{
     quote: `"La blockchain sera dieu et le code sera sa la loi."`,
     writer: `Garden of Achievements`
 }, {
-    quote: `"The purpose of our lives is to be happy."`,
-    writer: `Dalai Lama`
+    quote: `"A man is very strong when he confesses his weakness."`,
+    writer: `Honoré de Balzac The Skin of Sorrow`
 }, {
     quote: `"No one can reach dawn without passing through the path of night."`,
     writer: `Khalil Gibran`
