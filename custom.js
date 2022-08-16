@@ -23,6 +23,27 @@ const quotes = [{
     quote: `"Turn your wounds into wisdom."`,
     writer: `Oprah Winfrey`
 }, {
+    quote: `"There is no wrong decision, i make a decision and i make it right."`,
+    writer: `Mohamed Ali`
+}, {
+    quote: `"It is not the objective that is too high, but it is the number of steps that is insufficient."`,
+    writer: `Confucius`
+}, {
+    quote: `"The difference between a dream and a project is a date."`,
+    writer: `Walt Disney 🏰`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `Dalai Lama`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `Dalai Lama`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `Dalai Lama`
+}, {
+    quote: `"The purpose of our lives is to be happy."`,
+    writer: `Dalai Lama`
+}, {
     quote: `"The purpose of our lives is to be happy."`,
     writer: `Dalai Lama`
 }, {
