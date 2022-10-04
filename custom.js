@@ -41,8 +41,8 @@ const quotes = [{
     quote: `"The purpose of our lives is to be happy."`,
     writer: `Dalai Lama`
 }, {
-    quote: `"The purpose of our lives is to be happy."`,
-    writer: `Dalai Lama`
+    quote: `"I never lose. Either I win or I learn."`,
+    writer: `Nelson Mandela`
 }, {
     quote: `"The purpose of our lives is to be happy."`,
     writer: `Dalai Lama`
